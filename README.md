@@ -1,4 +1,4 @@
-# JSX Lab
+# JSX Lab c
 
 ## Learning Goals
 
